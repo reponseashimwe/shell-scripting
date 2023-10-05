@@ -1,1 +1,1 @@
-Just a scripting language
+Shell, basics
